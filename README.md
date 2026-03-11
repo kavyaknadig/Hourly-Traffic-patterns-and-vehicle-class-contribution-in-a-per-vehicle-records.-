@@ -1,0 +1,2 @@
+# Hourly-Traffic-patterns-and-vehicle-class-contribution-in-a-per-vehicle-records.-
+This project analyzes hourly traffic patterns using a high-volume per-vehicle dataset to identify peak traffic hours and the vehicle classes contributing most. It involves timestamp construction, data cleaning, aggregation, and visualization through a multi-line hourly chart to reveal peak periods and dominant vehicle types.
